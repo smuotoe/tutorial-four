@@ -16,3 +16,6 @@ Install relevant packages in a virtual environment (.venv)
 ```
 uv sync
 ```
+### Complete Exercises
+- 01-tensor-operations.py
+- 02-neural-network.py
